@@ -23,8 +23,8 @@ public class Rettangolo {
      * @author Stefano Volpe #969766
      */
     public Rettangolo(int l, int h) {
-        this.area = l * h;
-        this.perimetro = (l + h) * 2;
+        area = l * h;
+        perimetro = (l + h) * 2;
     }
 
     /**
@@ -33,7 +33,7 @@ public class Rettangolo {
      * @return Perimetro del rettangolo.
      */
     public int getPerimetro() {
-        return this.perimetro;
+        return perimetro;
     }
 
     /**
@@ -42,7 +42,7 @@ public class Rettangolo {
      * @return Area del rettangolo.
      */
     public int getArea() {
-        return this.area;
+        return area;
     }
 
     /** Perimetro del rettangolo. */
