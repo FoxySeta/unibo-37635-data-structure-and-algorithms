@@ -1,2 +1,2 @@
-# unibo-37635-algoritmi-e-strutture-di-dati
-Exercises for the University of Bologna Algorithms and Data Structures course (a.y. 2020-21).
+# unibo-37635-data-structure-and-algorithms
+Exercises for the University of Bologna Data Structure and Algorithms course (a.y. 2020-21).
